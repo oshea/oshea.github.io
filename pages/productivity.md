@@ -22,7 +22,7 @@ Use Streaks to track most important habits and goals.
 
 ### Events and Reminders
 
-Use Reminders app to remind me of errands or quick todos that I need to do in the future. 
+Use Reminders app to remind me of errands or quick todos that I need to do in the future.
 
 For large projects or work reminders use my work calendar and schedule blocks of time to do the work.
 
@@ -50,9 +50,14 @@ Try to keep work email at Inbox 0. Use Starring and Scheduling (Outlook app) to
 
 Try to turn off distracting notifications whenever possible.
 
+### Daily log by hour
+
+Currently trying this experiment to see how it goes.
+
 ### References
 
 * [https://www.reddit.com/r/LifeProTips/comments/4q3uvu/lpt_use_focus_sessions_and_day_goals_to_stay/](https://www.reddit.com/r/LifeProTips/comments/4q3uvu/lpt_use_focus_sessions_and_day_goals_to_stay/)
+* http://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it
 
 
 ![GTD Workflow](/images/gtd1.jpg)
