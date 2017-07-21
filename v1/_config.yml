@@ -1,0 +1,88 @@
+# User Settings | Edit there as per required
+
+title: Daniel O'Shea's place to talk about shit
+url: "http://oshea.io"
+
+# This will show up at the top of index page
+site_heading: >
+    oshea <span class="faded">ok</span>
+
+email: daniel.oshea@gmail.com
+author: oshea
+# This description will show up in google search results
+# (for index page) etc.
+description: >
+    Meh
+
+# This will what will show against &copy; in the footer
+copyright: Meh
+# Toggle your short bio, which will displayed on your index page
+# Just toggle it and run jekyll again to see
+intro: false         # Tip: Remove the span from site_heading if intro is set to true
+# This will be displayed in your intro
+short_bio: >
+    Founder at Interviewed.
+
+permalink: /:title.html
+
+# Comments are powered by disqus
+comments: false
+
+# keep about_stub roughly 12 words long for best results
+# This will show up at the bottom of each post
+# Note that about_footer should be true if you want
+# to see author information at the bottom of each post
+about_stub: >
+    Daniel O'Shea's blog about shit
+
+about_footer: false
+
+twitter_username: oshea
+github_username: oshea
+facebook_id:
+
+favicon: false
+favicon_location: "images/favicon.ico"
+
+profile_picture: images/temp.png
+paginate: 5
+paginate_path: "/page/:num"
+tracking_id: # GA Tracking ID
+
+# Social Stuff | open graph and twitter cards
+og_image: "" # This will show in facebook thumbnails
+twitter_image: "" # This will show in twitter cards
+
+####################################
+####################################
+####################################
+### Build Settings | Don't Touch ###
+####################################
+####################################
+####################################
+
+markdown: kramdown
+
+gems:
+    - jekyll-paginate
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Scopes
+defaults:
+    -
+        scope:
+            path:   ""
+            type:   "pages"
+        values:
+            layout: "page"
+    -
+        scope:
+            path:   ""
+            type:   "posts"
+        values:
+            layout: "post"
+
+exclude: [vendor] # For travis ci
