@@ -5,7 +5,7 @@ tags: pg, dev
 layout: post
 ---
 
-# [PostgreSQL Locking Revealed](http://blog.nordeus.com/dev-ops/postgresql-locking-revealed.htm)
+## [PostgreSQL Locking Revealed](http://blog.nordeus.com/dev-ops/postgresql-locking-revealed.htm)
 
 ### Notes
 - There are 3 locking mechanisms: table-level, row-level and advisory locks.
