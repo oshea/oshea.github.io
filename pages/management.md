@@ -1,4 +1,8 @@
-
+---
+title: Management
+tags: management
+layout: page
+---
 
 # Important Ideas
 
