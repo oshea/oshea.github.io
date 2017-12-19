@@ -1,7 +1,7 @@
 ---
 title: Productivity Framework
 tags: productivity
-layout: post
+layout: page
 ---
 
 ### Overall Strategy
