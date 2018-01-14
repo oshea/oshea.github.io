@@ -4,15 +4,32 @@ tags: productivity
 layout: page
 ---
 
-### Overall Strategy
+__“I must create a system or be enslaved by another man’s”__ — William Blake
 
-Constantly try use my time effectively. Constantly strive for the ideal flow state where my focus and attention is being used wisely.
+### Goals
 
-Use Evernote for a GTD like system.
+Constantly try use my time effectively. Work on ways to achieve better focus on the most important projects. Do a 'good enough' job on everything else.
 
-Use Inbox Zero + snoozing to manage communications.
+Take a long term view:
+- What are my responsibilities and goals?
+- What KPIs am I trying to maximize?
+- Always be optimizing
+- Say no to things that aren't high value
 
-Use my calendar to schedule events and times to complete high value tasks, goals and reminders to create good habits.
+### Strategy and habits
+
+- Do 2 minute tasks immediately.
+- Limit email reading to 3-4 low energy times per day.
+- Touch each email only once. Triage quickly and decisively into one of my other systems.
+- Do weekly and daily planning with my TODO list.
+- Use Evernote for a GTD like system with 3 lists: today (daily note), this week (daily note), later (projects).
+- Get to Inbox Zero everyday. Use snoozing for follow-ups. Don't use email as task list.
+- Use my calendar to schedule events and block times to complete high value tasks, goals and build good habits.
+- Use Streaks to track most important habits and goals.
+- Work on delegating and automating: trust and clearly communicate process and goals.
+
+Things to try:
+- Put links to email in my todo list and archive them. Can't use Inbox for this.
 
 ### Daily Task List and Notes
 
@@ -34,10 +51,6 @@ Do a weekly review of all lists and notes. Use a Triggers note to make sure I'm 
 ### Goals
 
 Keep them in the daily evernote docs so they can be reviewed and possibly edited every day.
-
-### Habits
-
-Use Streaks to track most important habits and goals.
 
 ### Events and Reminders
 
@@ -86,6 +99,10 @@ Use a Projects note
 
 Try to keep work email at Inbox 0 at the end of the day.
 
+Don't use email as my task list. Requires too much re-processing.
+
+Try not to read emails twice.
+
 Disable notifications and close my email tab unless I'm process and respond to email. 
 
 Use snoozing to push off stuff that I want to deal with at a later date.
@@ -100,8 +117,26 @@ Calendar reminders should be the only thing that interrupts me throughout the da
 
 Rate productiveness and make note of insights at the end of the day.
 
+### Important ideas
+
+Stages of time management maturity:
+- Stage 1: Clear your mind and day. Control time killers (todos, email, meetings)
+ - Write things down to clear your mind.
+ - The more you have on a list, the less likely you are to use it.
+ - Only one task list
+ - 3 priorities: today, this week, later
+ - Limit email reading time to 3-4 low energy times a day
+- Stage 2: Automate and delegate
+- Stage 3: Taking a long term view
+
+
+
 ### References
 
 [Pragmatic Guide to GTD](https://hamberg.no/gtd/)
 
 [Tactics for procrastination](https://alifeofproductivity.com/why-you-procrastinate-10-tactics-to-help-you-stop/)
+
+[Time management techniques](https://docs.google.com/presentation/d/17K27cBs_dRnW512tJrewP25AHpiUPt7JxUcxjgSxSjs/edit?usp=sharing)
+
+[One-touch Inbox](https://praxis.fortelabs.co/one-touch-to-inbox-zero-a74cfa02e5bf)
