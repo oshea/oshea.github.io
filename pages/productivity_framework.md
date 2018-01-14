@@ -102,6 +102,8 @@ Rate productiveness and make note of insights at the end of the day.
 
 ### References
 
-* [Pragmatic Guide to GTD](https://hamberg.no/gtd/)
-* [Notes on procrastination](https://alifeofproductivity.com/why-you-procrastinate-10-tactics-to-help-you-stop/)
-* http://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it
+[Pragmatic Guide to GTD](https://hamberg.no/gtd/)
+
+[Tactics for procrastination](https://alifeofproductivity.com/why-you-procrastinate-10-tactics-to-help-you-stop/)
+
+http://nickjanetakis.com/blog/schedules-arent-a-constraint-on-life-they-let-you-live-it
