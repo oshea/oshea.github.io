@@ -15,3 +15,5 @@ layout: page
 [Designing Data-Intensive Applications](/books/designing_data_intensive_applications)
 
 [The Coaching Habit](/books/the_coaching_habit)
+
+[First Break all the Rules](/books/first_break_all_the_rules)

@@ -1,4 +1,4 @@
-##What matters for a manager:
+## What matters for a manager:
 
 * Focus on employee strength and make best use of them.
     * Don't waste time trying to fix a weakness; it is what it is; find a way to work around it.
