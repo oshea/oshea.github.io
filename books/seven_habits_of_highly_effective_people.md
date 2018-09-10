@@ -2,9 +2,9 @@
 
 ## Be Proactive
 
-Don't simply react the external events. Take the time between stimuli and reaction to control your response for a more positive outcome.
+Don't simply react to external events. Take the time between stimuli and reaction to control your response for a more positive outcome.
 
-Reframe how you view the world to make learn from situations and treat them in a positive way.
+Reframe how you view the world to learn from situations and treat them in a positive way.
 
 ## Begin with the end in mind
 

@@ -6,11 +6,39 @@ layout: page
 
 ## Important Ideas
 
+- Don't delegate tasks and activities. Delegate outcomes and let your team figure out how to get there on their own. Be very good at clearly defining desired outcomes. Let your team contribute in thinking about what those outcomes are and how to measure them.
 - Leadership is about repeating goals and values over and over until everyone starts repeating them back to you.
 - Every person in your company is a vector. Your progress is determined by the sum of all vectors. The challenge is aligning people with the goal of the organization and the customer.
-- Things that impact culture: hiring/firing people to create a team that embodies core values, onboarding, how decisions are made, alignment, promotions/rewards and management. 
+- Things that impact culture: hiring/firing people to create a team that embodies core values, onboarding, how decisions are made, alignment, promotions/rewards and management.
 
 ## References
+
+### [Decision making at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
+
+- Core values include clear communication and efficient execution.
+- 3 Step process:
+  - Set the parameters: decision date, revisit date (how long to commit to decision), decision makers, who provides input, who is affected,
+  - Deliberate: get decisions makers and input providers in a room to share data, enumerate the options, present any data that's been gathered, one round of blind voting, discuss pros/cons and why people voted the way they did, do a final vote
+  - Decide: make the decision, communicate it and memorialize it
+- Good decision making:
+  - People seek the truth, aren't just trying to be right
+  - Decision makers are clear and chosen in advance
+  - Everyone is heard and commits to the decision
+  - Make quickly with few meetings using a lightweight process
+  - A record is kept of the process
+- Give owners unilateral decision making ability unless a decision is high risk: long term implications or costly to unwind the wrong decision
+- “A good plan, violently executed now, is better than a perfect plan next week.” -Gen. George S. Patton
+- Things to avoid:
+  - A bunch of one-off conversations
+  - Manager not delegating decisions or overruling decision they disagree with
+  - Waiting too long to make a decision
+  - List options and debating them at the same time
+  - Trying to run a fully democratic process
+
+### [Delegate outcomes, not activities](https://blog.knowyourcompany.com/delegate-outcomes-not-activities-3aa922c1f55e)
+
+- Delegation is about letting your report learn, and if you believe their approach has a fair chance to get to the outcome, then you must get out of the way.
+- When you delegate the outcomes and not the activities, you help employees not just execute for the task at hand, but equip them for every future task after that. You’re giving true ownership to your team.
 
 ### [Every employee is a vector](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3)
 
@@ -22,7 +50,7 @@ layout: page
 
 ### [Thoughts on building culture](https://www.linkedin.com/pulse/how-build-great-startup-culture-fred-stevens-smith/)
 
-- Culture is not designed. It is a mirror that reflects mack the collective personality of the team.
+- Culture is not designed. It is a mirror that reflects back the collective personality of the team.
 - Hiring and firing is the biggest lever to influence culture.
 - Hiring skilled people that are bad for culture is a mistake.
 - Don't use the beer test or if you'd want to hang out with someone to decide if they are a cultural fit.
