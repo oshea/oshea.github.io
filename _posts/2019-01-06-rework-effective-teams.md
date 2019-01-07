@@ -1,5 +1,5 @@
 ---
-title: Notes: Stripe Atlas: re:Work Guide - Understand team effectiveness
+title: [Reading Notes] re:Work Guide - Understand team effectiveness
 categories: Reading Notes
 tags: management
 layout: post
