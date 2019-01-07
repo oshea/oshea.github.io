@@ -7,9 +7,42 @@ layout: page
 ## Important Ideas
 
 - Don't delegate tasks and activities. Delegate outcomes and let your team figure out how to get there on their own. Be very good at clearly defining desired outcomes. Let your team contribute in thinking about what those outcomes are and how to measure them.
-- Leadership is about repeating goals and values over and over until everyone starts repeating them back to you.
+
+- Part of leadership is repeating goals and values over and over until everyone starts repeating them back to you.
+
 - Every person in your company is a vector. Your progress is determined by the sum of all vectors. The challenge is aligning people with the goal of the organization and the customer.
-- Things that impact culture: hiring/firing people to create a team that embodies core values, onboarding, how decisions are made, alignment, promotions/rewards and management.
+
+- Things that impact culture:
+    - hiring/firing people to create a team that embodies core values
+    - onboarding
+    - how decisions are made 
+    - alignment
+    - promotions/rewards and management.
+
+- Things that people need to be happy and productive employees:
+    - they know the impact of their work
+    - feel autonomy in the decisions they make every day
+    - structure to keep team members engaged for the long-term
+    - management actively listens to feedback
+    - clear paths for personal growth is defined
+    - leaders that are trained to support their teams
+
+- Thinks that make teams effective:
+    -  Psychological safety: no one on the team will embarrass or punish anyone else for admitting a mistake, asking a question, or offering a new idea.
+    -  Dependability: members reliably complete quality work on time and meet a high bar with their work
+    -  Structure and clarity: team has clear roles, plans and goals 
+    -  Meaning: work is personally important to team members
+    -  Impact: team members think their work matters and creates change
+
+- Thinks that don't have a big impact on making teams effectiveness:
+    - Colocation of teammates (sitting together in the same office)
+    - Consensus-driven decision making
+    - Extroversion of team members
+    - Individual performance of team members
+    - Workload size
+    - Seniority
+    - Team size
+    - Tenure
 
 ## References
 

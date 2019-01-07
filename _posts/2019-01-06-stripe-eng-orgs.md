@@ -1,11 +1,11 @@
 ---
 title: Notes: Stripe Atlas: Guide to scaling engineering organizations
 categories: Reading Notes
-tags: eng-management
+tags: management
 layout: post
 ---
 
-# Notes: Stripe Atlas: Guide to scaling engineering organizations
+# Reading Notes: Stripe Atlas guide to scaling engineering organizations
 
 [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 
