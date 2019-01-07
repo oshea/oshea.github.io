@@ -1,5 +1,5 @@
 ---
-title: [Reading Notes] re:Work Guide - Understand team effectiveness
+title: re:Work Guide - Understand team effectiveness [Reading Notes]
 categories: Reading Notes
 tags: management
 layout: post
@@ -79,8 +79,3 @@ Impact:
 * Co-create a clear vision that reinforces how each team member’s work directly contributes to the team’s and broader organization's goals.
 * Reflect on the work you're doing and how it impacts users or clients and the organization.
 * Adopt a user-centered evaluation method and focus on the user.
-
-
-
-
-#reading_notes
