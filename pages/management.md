@@ -10,7 +10,12 @@ layout: page
 
 - Part of leadership is repeating goals and values over and over until everyone starts repeating them back to you.
 
-- Every person in your company is a vector. Your progress is determined by the sum of all vectors. The challenge is aligning people with the goal of the organization and the customer.
+- Invest in your best people. Spend the most time with them. Don't spend too much time trying to fix your worst performers.
+
+- Not everyone needs the same style of management. Adjust your approach depending on their style.
+
+- Focus people on getting better at the things they are good at. Don't push people into doing things they aren't good at if needed.
+
 
 - Things that impact culture:
     - hiring/firing people to create a team that embodies core values
