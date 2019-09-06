@@ -17,3 +17,5 @@ layout: page
 [The Coaching Habit](/books/the_coaching_habit)
 
 [First Break all the Rules](/books/first_break_all_the_rules)
+
+[Emotional Intelligence 2.0](/books/emotional_intelligence_2)
