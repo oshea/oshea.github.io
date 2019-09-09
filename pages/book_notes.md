@@ -19,3 +19,5 @@ layout: page
 [First Break all the Rules](/books/first_break_all_the_rules)
 
 [Emotional Intelligence 2.0](/books/emotional_intelligence_2)
+
+[Turn the Ship Around](/books/turn_the_ship_around)
