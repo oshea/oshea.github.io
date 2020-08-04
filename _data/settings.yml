@@ -1,7 +1,6 @@
 basic_settings:
   site_title: Daniel O'Shea
-  site_tagline: 4x Founder, Investor. |
-    Thoughts on startups, engineering, product and more.
+  site_tagline: 4x Founder | Investor | Thoughts on startups, engineering, product.
   favicon_image: /images/favicon.png
 
 header_settings:
