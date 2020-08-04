@@ -1,7 +1,7 @@
-site: Daniel O'Shea
+site: Daniel OShea
 
-url: http://oshea.io
-baseurl: http://oshea.io
+url: https://oshea.io
+baseurl:
 
 collections:
   pages:
