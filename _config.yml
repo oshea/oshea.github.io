@@ -1,7 +1,7 @@
-site: Index Jekyll Theme
+site: Daniel O'Shea
 
-url: https://index.jekyllthemes.io
-baseurl: 
+url: http://oshea.io
+baseurl: http://oshea.io
 
 collections:
   pages:
