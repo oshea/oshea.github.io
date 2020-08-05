@@ -10,7 +10,7 @@ featured_image: /images/social.jpg
 		<h2>Favorites</h2>
 		<ul>
 			{% for favorite in site.data.settings.favorites %}
-				<li>{{ favorite | markdownify }}</li>
+				<li>{{ favorite }}</li>
 			{% endfor %}
 		</ul>
 

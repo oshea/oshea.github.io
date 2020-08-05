@@ -5,7 +5,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 favorites:
-  - [Test](test.com)
+  - <a href="https://laskie.co">Laskie</a>
 
 header_settings:
   logo_image: 
