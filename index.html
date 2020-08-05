@@ -5,26 +5,9 @@ description: A minimal, fixed sidebar grid portfolio Jekyll theme.
 featured_image: /images/social.jpg
 ---
 
-<section class="intro">
-
-	<div class="wrap">
-	</div>
-
-</section>
-
-<section class="single">
-
-
-</section>
-
 <section class="portfolio">
-
-	Test
-	<div class="wrap">
-			{% include index-nav.html %}
-	</div>
-
 	<div class="content-wrap portfolio-wrap">
+		{% include index-nav.md %}
 
 		{% for project in site.projects reversed %}
 
