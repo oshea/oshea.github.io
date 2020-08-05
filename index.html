@@ -9,7 +9,7 @@ featured_image: /images/social.jpg
 	<div class="content-wrap portfolio-wrap">
 		<h2>Favorites</h2>
 		<ul>
-			{% for favorite in site.setting.favorites %}
+			{% for favorite in site.data.settings.favorites %}
 				<li>{{ favorite | markdownify }}</li>
 			{% endfor %}
 		</ul>
