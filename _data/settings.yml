@@ -5,7 +5,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 favorites:
-  - Test
+  - [Test](test.com)
 
 header_settings:
   logo_image: 
