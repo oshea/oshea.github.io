@@ -7,7 +7,7 @@ featured_image: /images/social.jpg
 
 <section class="portfolio">
 	<div class="content-wrap portfolio-wrap">
-		{% include index-nav.md %}
+		{{ {% include index-nav.md %} | markdownify }}
 
 		{% for project in site.projects reversed %}
 
