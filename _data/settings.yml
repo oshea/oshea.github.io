@@ -4,6 +4,9 @@ basic_settings:
   site_description: Thoughts on startups, engineering, product.
   favicon_image: /images/favicon.png
 
+favorites:
+  - [Google](http://google.com)
+
 header_settings:
   logo_image: 
   logo_width: 200
