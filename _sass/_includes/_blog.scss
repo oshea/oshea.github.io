@@ -4,6 +4,14 @@
 
 // - - - - - - - - - - - - - - - - - -
 
+.index-blog {
+	padding: $grid-spacing/2;
+}
+
+.blog-post-list {
+	list-style-type: none;
+}
+
 .blog {
 	margin-top: 0;
 	padding: $grid-spacing/2;
