@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Daniel O'Shea
   site_tagline: Founder at <a href="https://laskie.co">Laskie</a>
-  site_description: Thoughts on leadership, management, company building, engineering, product.
+  site_description: Company building, engineering, product.
   favicon_image: /images/favicon.png
 
 favorites:
