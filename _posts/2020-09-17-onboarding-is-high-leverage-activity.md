@@ -1,6 +1,6 @@
 ---
 title: Onboarding is a High Leverage Activity
-date: 2018-06-30 00:00:00
+date: 2020-09-17 00:00:00
 description: Why you should invest in onboarding at any company size.
 ---
 
